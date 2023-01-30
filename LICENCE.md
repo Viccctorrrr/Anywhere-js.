@@ -1,4 +1,4 @@
-We Will Allow Redistribution and use of the code named "anywhere-tab.js" in source and binary forms,
+We will allow Redistribution and use of the code named "anywhere-tab.js" in source and binary forms,
 with or without modification, are permitted provided that the following conditions are met:
 
 
